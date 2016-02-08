@@ -58,11 +58,15 @@ Dean's List for 7 semesters
 Honors At Entrance Scholarship (full-tuition scholarship)
 Additional coursework: Calculus I, II, III; Linear Algebra; Foundations of Analysis I; Discrete Structures; Symbolic Logic
 
+2007 Additional Distinctions , 
+
+High school Salutatorian
+National AP Scholar
+
 Languages and Technologies
 
-Java, C#, .NET, Python, Matlab, MS SQL, MYSQL, Powershell, Javascript, XQuery, C++, Latex, IntelliJ, Visual Studio, Eclipse, PyCharm, TFS, Windows Server, Git, Subversion, IIS
+Java, C#, .NET, Python, Matlab, Octave, MS SQL, MYSQL, Powershell, Javascript, XQuery, C++, Latex, IntelliJ, Visual Studio, Eclipse, PyCharm, TFS, Windows Server, Git, Subversion, IIS
 
 Publications
 
-2015:
 Q. B. Baker, G. J. Podgorski, C. D. Johnson, E. Vargis, and N. S. Flann, "Bridging the multiscale gap: Identifying cellular parameters from multicellular data," in Computational Intelligence in Bioinformatics and Computational Biology (CIBCB), 2015 IEEE Conference on.    IEEE, Aug. 2015, pp. 1-7. [Online]. Available: http://dx.doi.org/10.1109/cibcb.2015.7300323
