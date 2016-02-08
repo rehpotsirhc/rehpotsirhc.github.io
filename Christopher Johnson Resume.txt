@@ -1,0 +1,72 @@
+
+Christopher Johnson
+
+1078 Sumac DR
+Logan, UT 84321
+Cell: 801 898 0236
+E-Mail: 7cdjohnson7@gmail.com | github.com/rehpotsirhc
+
+Experience
+
+January 2015 to Current
+Utah State University Logan, UT
+Research Assistant and Lab Manager    
+
+Programming simulation and model fitting software and tools using Java, Python and Matlab
+Writing and editing journal and conference papers using Latex
+
+December 2013 to August 2014
+Orchid Event Solutions (Visit Salt Lake) Salt Lake City, UT
+Software Engineer    
+
+•Reduced website development time by:
+Implementing a software migration to newer technologies including Microsoft Team Foundation Server, Release Management, and Visual Studio 2013 
+Creating tools to automate some website creation and deployment processes using C# and Windows Powershell
+
+•Created websites for event registrations in C# and ASP.NET
+June 2009 to December 2013
+Carnections, Inc. Salt Lake City, UT
+Co-Owner and Webmaster    
+
+Co-founded and expanded Carnections, Inc., which brokers the shipment of automobiles nationwide
+Designed, created, and managed its website, carnections.com
+Planned and implemented search engine optimization
+
+September 2007 to January 2013
+Shipping Connections Salt Lake City, UT
+Web Developer and Software Engineer    
+
+Expanded online presence, improved interoffice efficiency, and increased sales by programming and managing several interactive, data-driven websites, information and communication tools, and  business applications utilizing C#, MSSQL, and ASP.NET
+Spearheaded "going paperless" by computerizing the office's organization, file system, and communication
+
+Education
+
+2016 Utah State University Logan, UT
+Master of Science Computer Science 
+
+Expected graduation: May 2016
+GPA: 3.89
+Emphasis in machine learning and computational biology
+Select coursework: Intelligent Systems, Speech and Natural Language Processing, Adv. Bioinformatics, Adv. Database Systems
+Thesis: Parameter Fitting a Multi-scale Model/Simulation of Biofilm Morphology using a Parallelized Multi-objective Genetic Algorithm
+
+2012 University of Utah Salt Lake City, UT
+Bachelor of Science Philosophy and Psychology 
+
+GPA: 3.75
+Dean's List for 7 semesters
+Honors At Entrance Scholarship (full-tuition scholarship)
+Additional coursework: Calculus I, II, III; Linear Algebra; Foundations of Analysis I; Discrete Structures; Symbolic Logic
+
+2007 Additional Distinctions , 
+
+High school Salutatorian
+National AP Scholar
+
+Languages and Technologies
+
+Java, C#, .NET, Python, Matlab, Octave, MS SQL, MYSQL, Powershell, Javascript, XQuery, C++, Latex, IntelliJ, Visual Studio, Eclipse, PyCharm, TFS, Windows Server, Git, Subversion, IIS
+
+Publications
+
+Q. B. Baker, G. J. Podgorski, C. D. Johnson, E. Vargis, and N. S. Flann, "Bridging the multiscale gap: Identifying cellular parameters from multicellular data," in Computational Intelligence in Bioinformatics and Computational Biology (CIBCB), 2015 IEEE Conference on.    IEEE, Aug. 2015, pp. 1-7. [Online]. Available: http://dx.doi.org/10.1109/cibcb.2015.7300323
