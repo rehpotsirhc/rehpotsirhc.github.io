@@ -1,0 +1,59 @@
+﻿Christopher Douglas Johnson
+1078 Sumac Drive   |   Logan, Utah 84321   |    7cdjohnson7@gmail.com   |  (801) 898-0236 | My Github Homepage
+
+
+OBJECTIVE . ....
+Seeking full-time employment in a challenging software engineering and research role where I am free to learn and improve my programming abilities and knowledge
+
+
+EXPERIENCE
+Utah State University   Logan , Utah            January 2015 - Present
+Research Assistant and Lab Manager (of 5 other students)
+* Programming simulation and model fitting software and tools using Java, Python and Matlab
+* Designing and implementing optimization software, especially meta-heuristics
+* Writing and editing journal and conference papers using Latex
+* Increased speed of biofilm simulation software (Java)  over 10 fold.
+* Implemented robust 3D biofilm wrinkling into current model
+
+
+Orchid Event Solutions (Visit Salt Lake)   Salt Lake City , Utah            December 2013 - August 2014
+Software Engineer
+* Reduced website development time by approximately 25%
+* Led a software migration to newer technologies including Microsoft TFS, Release Management, and Visual Studio 2013
+* Programmed tools to automate website creation and deployment processes using C# and Windows Powershell
+* Created websites for event registrations in C# and ASP.NET
+
+
+Carnections, Inc.   Salt Lake City , Utah            June 2009 - December 2013
+Co-Owner and Webmaster
+* Co-founded and expanded Carnections, Inc., which brokers the shipment of automobiles nationwide
+* Designed, created, and managed its website, carnections.com
+* Planned and implemented search engine optimization
+
+
+EDUCATION
+Utah State University   Logan, Utah          July 2016
+Computer Science, M.S., GPA 3.89
+ Honors:
+* Emphasis in machine learning (mostly optimization) and computational biology
+* Select coursework: Intelligent Systems, Speech and Natural Lang. Processing, Bioinformatics, Database Systems
+* Thesis: Parameter Fitting a Multi-scale Model of Biofilm Morphology using a Parallelized Multi-objective Genetic Algorithm
+
+
+University of Utah   Salt Lake City, Utah          May 2012
+Psychology, B.S., GPA 3.75
+University of Utah   Salt Lake City, Utah          May 2012
+Philosophy, B.S., GPA 3.75
+ Honors:
+* Dean's List for 7 semesters
+* Honors At Entrance Scholarship (full-tuition scholarship)
+* Addnl. courses: Calculus I, II, III; Linear Algebra; Foundations of Analysis; Discrete Structures; Symbolic Logic
+
+
+PUBLICATIONS
+See: https://rehpotsirhc.github.io/
+
+
+
+
+References and a draft of my thesis are available upon request.
