@@ -1,11 +1,7 @@
 ﻿Christopher Douglas Johnson
 1078 Sumac Drive   |   Logan, Utah 84321   |    7cdjohnson7@gmail.com   |  (801) 898-0236 | My Github Homepage
-
-
 OBJECTIVE . ....
 Seeking full-time employment in a challenging software engineering and research role where I am free to learn and improve my programming abilities and knowledge
-
-
 EXPERIENCE
 Utah State University   Logan , Utah            January 2015 - Present
 Research Assistant and Lab Manager (of 5 other students)
@@ -14,23 +10,21 @@ Research Assistant and Lab Manager (of 5 other students)
 * Writing and editing journal and conference papers using Latex
 * Increased speed of biofilm simulation software (Java)  over 10 fold.
 * Implemented robust 3D biofilm wrinkling into current model
-
-
 Orchid Event Solutions (Visit Salt Lake)   Salt Lake City , Utah            December 2013 - August 2014
 Software Engineer
 * Reduced website development time by approximately 25%
 * Led a software migration to newer technologies including Microsoft TFS, Release Management, and Visual Studio 2013
 * Programmed tools to automate website creation and deployment processes using C# and Windows Powershell
 * Created websites for event registrations in C# and ASP.NET
-
-
 Carnections, Inc.   Salt Lake City , Utah            June 2009 - December 2013
 Co-Owner and Webmaster
 * Co-founded and expanded Carnections, Inc., which brokers the shipment of automobiles nationwide
 * Designed, created, and managed its website, carnections.com
 * Planned and implemented search engine optimization
-
-
+Shipping Connections  Salt Lake City , Utah            September 2007 - January 2013
+Web Developer and Software Engineer
+* Expanded online presence, improved interoffice efficiency, and increased sales by programming and managing several interactive, data-driven websites, information and communication tools and business applications utilizing C#, MSSQL, ASP.NET, JavaScript, and Jquery
+* Spearheaded “going paperless” by computerizing the office’s organization, file system, and communication
 EDUCATION
 Utah State University   Logan, Utah          July 2016
 Computer Science, M.S., GPA 3.89
@@ -38,8 +32,6 @@ Computer Science, M.S., GPA 3.89
 * Emphasis in machine learning (mostly optimization) and computational biology
 * Select coursework: Intelligent Systems, Speech and Natural Lang. Processing, Bioinformatics, Database Systems
 * Thesis: Parameter Fitting a Multi-scale Model of Biofilm Morphology using a Parallelized Multi-objective Genetic Algorithm
-
-
 University of Utah   Salt Lake City, Utah          May 2012
 Psychology, B.S., GPA 3.75
 University of Utah   Salt Lake City, Utah          May 2012
@@ -48,8 +40,6 @@ Philosophy, B.S., GPA 3.75
 * Dean's List for 7 semesters
 * Honors At Entrance Scholarship (full-tuition scholarship)
 * Addnl. courses: Calculus I, II, III; Linear Algebra; Foundations of Analysis; Discrete Structures; Symbolic Logic
-
-
 PUBLICATIONS
 See: https://rehpotsirhc.github.io/
 
