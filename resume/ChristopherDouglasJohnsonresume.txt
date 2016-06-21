@@ -1,5 +1,5 @@
 ﻿Christopher Douglas Johnson
-1078 Sumac Drive   |   Logan, Utah 84321   |    7cdjohnson7@gmail.com   |  (801) 898-0236 | My Github Homepage
+1078 Sumac Drive   |   Logan, Utah 84321   |    7cdjohnson7@gmail.com   |  (801) 898-0236 | rehpotsirhc.github.io
 OBJECTIVE . ....
 Seeking full-time employment in a challenging software engineering and research role where I am free to learn and improve my programming abilities and knowledge
 EXPERIENCE
@@ -40,6 +40,7 @@ Philosophy, B.S., GPA 3.75
 * Dean's List for 7 semesters
 * Honors At Entrance Scholarship (full-tuition scholarship)
 * Addnl. courses: Calculus I, II, III; Linear Algebra; Foundations of Analysis; Discrete Structures; Symbolic Logic
+Additional Honors: Cottonwood High school Salutatorian in 2007 (2nd in graduating class of 600), National AP Scholar
 PUBLICATIONS
 See: https://rehpotsirhc.github.io/
 
