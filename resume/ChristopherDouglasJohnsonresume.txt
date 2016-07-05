@@ -6,14 +6,15 @@ EXPERIENCE
 Utah State University   Logan , Utah            January 2015 - Present
 Research Assistant and Lab Manager (of 5 other students)
 * Programming simulation and model fitting software and tools using Java, Python and Matlab
-* Designing and implementing optimization software, especially meta-heuristics
+* Designing and implementing optimization software, esp. meta-heuristics (genetic algorithms, sim. annealing)
+* Researching machine learning techniques, including neural networks, regression, feature extraction
 * Writing and editing journal and conference papers using Latex
 * Increased speed of biofilm simulation software (Java)  over 10 fold.
 * Implemented robust 3D biofilm wrinkling into current model
 Orchid Event Solutions (Visit Salt Lake)   Salt Lake City , Utah            December 2013 - August 2014
 Software Engineer
 * Reduced website development time by approximately 25%
-* Led a software migration to newer technologies including Microsoft TFS, Release Management, and Visual Studio 2013
+* Led a software migration to newer tech including Microsoft TFS, Release Management, and Visual Studio 2013
 * Programmed tools to automate website creation and deployment processes using C# and Windows Powershell
 * Created websites for event registrations in C# and ASP.NET
 Carnections, Inc.   Salt Lake City , Utah            June 2009 - December 2013
