@@ -31,7 +31,7 @@ Utah State University   Logan, Utah          July 2016
 Computer Science, M.S., GPA 3.89
  Honors:
 * Emphasis in machine learning (mostly optimization) and computational biology
-* Select coursework: Intelligent Systems, Speech and Natural Lang. Processing, Bioinformatics, Database Systems
+* Select courses: Intelligent Systems, Speech and Natural Lang. Processing, Bioinformatics, Database Systems
 * Thesis: Parameter Fitting a Multi-scale Model of Biofilm Morphology using a Parallelized Multi-objective Genetic Algorithm
 University of Utah   Salt Lake City, Utah          May 2012
 Psychology, B.S., GPA 3.75
