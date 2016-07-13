@@ -3,7 +3,7 @@
 
 
 SUMMARY. ....
-Back-end Software Engineer of 6-years industry experience across the full stack using C#, .NET, MSSQL, TFS, Windows Server and other Microsoft technologies. Analytical thinker with excellent logical reasoning ability and superb written communication skills. Optimization and computational biology researcher with 2 years experience model fitting using machine learning techniques: including search algorithms, neural networks, regression, clustering and feature extraction programmed in Matlab, Python and Java (4 years experience with Java).
+Back-end web and application developer of 6-years industry experience across the full stack using C#, .NET, MSSQL, TFS, Windows Server and other Microsoft technologies. Creative, analytical thinker with excellent logical reasoning ability and superb written communication skills. Optimization and computational biology researcher with 2 years experience model fitting using machine learning techniques: including search algorithms, neural networks, regression, clustering and feature extraction programmed in Matlab, Python and Java (4 years experience with Java).
 
 
 PROFESSIONAL EXPERIENCE
@@ -39,17 +39,14 @@ Philosophy, B.S., GPA 3.75
  Honors: Dean's List for 7 semesters, Honors At Entrance Scholarship (full-tuition)
 * Addnl. courses: Calculus I, II, III; Linear Algebra; Foundations of Analysis; Discrete Structures; Symbolic Logic
 Additional Honors: Cottonwood High Salutatorian in 2007 (2nd in graduating class of 600), Eagle Scout, National AP Scholar
-
-
 PUBLICATIONS
 * Third author on Bridging the multiscale gap: Identifying cellular parameters from multicellular data
 * Two additional publications on biofilm modelling and parameter fitting are in-progress
 
 
-
-
-
-
+SKILLS and TECHNOLOGIES
+* Web and App - full stack, big data, speech and language processing, data visualization, machine learning 
+* C#, Java, Python, Matlab, C++, .NET, SQL, MapReduce, MVC, Powershell, Javascript, Jquery, Git, TFS 
 
 
 See https://rehpotsirhc.github.io/ for more information on my master’s thesis, publications, and code samples
