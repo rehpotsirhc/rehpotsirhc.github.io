@@ -1,13 +1,18 @@
 ﻿Chris Johnson
-1078 Sumac Drive   |   Logan, Utah 84321   |    7cdjohnson7@gmail.com   |  (801) 898-0236 | rehpotsirhc.github.io
+1486 W. 3300 S., WVC, Utah 843119   |    7cdjohnson7@gmail.com   |  (801) 898-0236 | rehpotsirhc.github.io
 
 
 SUMMARY. ....
-Back-end web and application developer of 6-years industry experience across the full stack using C#, .NET, MSSQL, TFS, Windows Server and other Microsoft technologies. Creative, analytical thinker with excellent logical reasoning ability and superb written communication skills. Optimization and computational biology researcher with 2 years experience model fitting using machine learning techniques: including search algorithms, neural networks, regression, clustering and feature extraction programmed in Matlab, Python and Java (4 years experience with Java).
+Back-end web, application, and Restful API developer with 8 years of experience across the full stack, primarily using C#,  .NET, MSSQL, and Javascript. More recent experience includes Angular, AWS, MySql, .Net Core, and microservice-oriented architecture. Optimization and computational biology researcher with 2 years experience model fitting using machine learning techniques, including search algorithms, neural networks, regression, clustering and feature extraction programmed in Matlab, Python and Java. Creative, analytical thinker with excellent logical reasoning ability and superb written communication skills. I am a curious, life-long learner committed to exceptionalism in everything I do.
 
 
 PROFESSIONAL EXPERIENCE
-Utah State University   Logan , Utah            January 2015 - Present
+Dealertrack (Cox Automotive)   Sandy, Utah            August 2016 - Present
+Software Engineer
+* Integral team member of a large, multi-team initiative to modernize a large SaaS application from RPG/DB2 to microservices written in C#/.Net Core and hosted in AWS
+* Stepped-up as team-lead part way through project after company reorganization
+* Practiced Scaled Agile Methodology and used automated build/deployments to facilitate continuous delivery
+Utah State University   Logan , Utah            January 2015 - August 2016
 Machine Learning and Computational Biology Researcher and Lab Manager
 * Built optimization software and successfully applied it to fitting two biological models.
 * Collaborated closely with the Institute of Systems Biology on modelling research.
@@ -15,38 +20,33 @@ Machine Learning and Computational Biology Researcher and Lab Manager
 Orchid Event Solutions (Visit Salt Lake)   Salt Lake City , Utah            December 2013 - August 2014
 Software Engineer
 * Reduced website creation time over 25% by automating development, build and deployment processes.
-* Led a successful software migration to newer technologies including TFS and Release Management.
+* Led a successful devops migration to newer technologies including TFS and Release Management.
+* Practiced Agile Methodology on a small, cross-functional team
 Carnections, Inc.   Salt Lake City , Utah            June 2009 - December 2013
 Co-Owner, Founder and Webmaster
 * Designed, programmed, and maintained its website, carnections.com
 * Significantly expanded online presence using search engine optimization (SEO)
-Shipping Connections  Salt Lake City , Utah            September 2007 - January 2013
-Web Developer and Software Engineer
-* Brought company into 21st century by building data-driven websites to increase sales and capture leads
-* Gained formative experience across full development stack
+SKILLS and TECHNOLOGIES
+* Full stack, APIs, microservices, UI, speech and language processing, data vis., machine learning
+* C#, .NET Framework and Core, Angular, Java, MSSQL, MySQL, Python, Javascript, Matlab, Docker, Git, TFS, AWS (EC2, Elastic Beanstalk, Lambda, Aurora, S3, Dynamo) 
 
 
 EDUCATION
 Utah State University   Logan, Utah          July 2016
 Computer Science, M.S., GPA 3.89
 * Emphasis in machine learning, optimization, and computational biology
-* Select courses: Intelligent Systems, Speech and Natural Lang. Processing, Bioinformatics, Adv. Database Sys
 * Thesis: Fitting a Multiscale Biofilm Model using a Parallelized Multi-objective Genetic Algorithm
 University of Utah   Salt Lake City, Utah          May 2012
 Psychology, B.S., GPA 3.75
 University of Utah   Salt Lake City, Utah          May 2012
 Philosophy, B.S., GPA 3.75
- Honors: Dean's List for 7 semesters, Honors At Entrance Scholarship (full-tuition)
-* Addnl. courses: Calculus I, II, III; Linear Algebra; Foundations of Analysis; Discrete Structures; Symbolic Logic
-Additional Honors: Cottonwood High Salutatorian in 2007 (2nd in graduating class of 600), Eagle Scout, National AP Scholar
 PUBLICATIONS
 * Third author on Bridging the multiscale gap: Identifying cellular parameters from multicellular data
-* Two additional publications on biofilm modelling and parameter fitting are in-progress
+   * Primary contribution was developing parameter searching software to fit model
+* Third author on Cell Death as a Trigger for Morphogenesis
+   * Primary contribution was developing and programming software model of biofilm cell death
 
 
-SKILLS and TECHNOLOGIES
-* Web and App - full stack, big data, speech and language processing, data visualization, machine learning 
-* C#, Java, Python, Matlab, C++, .NET, SQL, MapReduce, MVC, Powershell, Javascript, Jquery, Git, TFS 
 
 
 See https://rehpotsirhc.github.io/ for more information on my master’s thesis, publications, and code samples
